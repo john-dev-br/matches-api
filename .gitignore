@@ -1,0 +1,11 @@
+# Eclipse
+.classpath
+.project
+.tern-project
+.settings/
+
+# Mac
+.DS_Store
+
+# Maven
+target/

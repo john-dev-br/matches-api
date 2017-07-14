@@ -50,7 +50,7 @@
 
 		<li><b>US-02 - Soccer matches search</b><br/><br/>
 			[GET] http://localhost:8080/api/matches/search<br/><br/>
-			<u>Option parameters</u><br/><br/>
+			<u>Optional parameters</u><br/><br/>
 			<i>
 				home=homeTeam<br/>
 				away=awayTeam<br/>
